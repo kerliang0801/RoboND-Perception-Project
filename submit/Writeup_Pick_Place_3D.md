@@ -1,6 +1,6 @@
 ## Project: Perception Pick & Place
 ### Overview: 
-The target of this project is to provide a Pick & Place solution for a PR2 robot running on Gazebo simulator over ROS. The robot, that is provided with RGB vision camera to allow identify a list of objects using a trained model, pick up a set of different objects and then place in two different boxes. 
+The target of this project is to provide a Pick & Place solution for a PR2 robot running on Gazebo simulator over ROS. The robot, that is provided with RGB vision camera to allow identify a list of objects using a trained model, pick up a set of different objects and then place in two different boxes. The entire project can be found in this [repo](https://github.com/zenetio/RoboND-Perception-Project)
 
 ![demo-1](https://user-images.githubusercontent.com/20687560/28748231-46b5b912-7467-11e7-8778-3095172b7b19.png)
 ---
